@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//write an inline fuction to calculate teh area of a circle
+//write an inline fuction to calculate the area of a circle
 inline float area(float r){
     return 3.14*r*r;
 }
